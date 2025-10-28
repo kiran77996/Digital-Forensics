@@ -37,7 +37,7 @@ By analyzing headers, we can identify:
 
 *Step-3:* Use the *Mail Header Analyzer tool* for easy reading and analysis.  
 
-![(images/exp4-step3.png)](https://github.com/baddiputi/Digital-Forensic-Lab-Exercises/blob/9fbbaf3e036c541c5ecf03ce8b980e220c3d37a3/images/WhatsApp%20Image%202025-09-01%20at%2012.27.34.jpeg)
+
 
 *Step-4:* Copy and paste the entire header text into the tool and click *Analyze Header*.  
 
